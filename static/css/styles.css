@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.logos {
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+
+.btnsub{
+background-color: black;
+opacity: 0.8;
+border: none;
+}
+.wrapper{
+    width: 400px;
+}
+.btnsub:hover{
+    background-color: black;
+    border: none;
+    
+    }
+
+a:hover {
+    color: black;
+    opacity: 0.5;
+  }
+.section{
+    align-items: center;
+    display: flex;
+    width: max-content;
+    height: max-content;
+}
